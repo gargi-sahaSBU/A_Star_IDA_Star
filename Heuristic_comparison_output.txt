@@ -1,0 +1,60 @@
+1.txt: N=4
+Misplaced tiles: number of states explored:7 time taken:3.1934909929987043 Depth:7
+Manhattan dist: number of states explored:7 time taken:4.72094799624756 Depth:7
+2.txt: N=3
+Misplaced tiles: number of states explored:411 time taken:187.0227190083824 Depth:15
+Manhattan dist: number of states explored:86 time taken:33.99709099903703 Depth:15
+3.txt: N=4
+Misplaced tiles: number of states explored:67 time taken:18.915150008979253 Depth:13
+Manhattan dist: number of states explored:18 time taken:22.458760999143124 Depth:13
+4.txt: N=3
+Misplaced tiles: number of states explored:14 time taken:11.50266699551139 Depth:7
+Manhattan dist: number of states explored:7 time taken:4.288278010790236 Depth:7
+5.txt: N=4
+Misplaced tiles: number of states explored:10 time taken:4.635803998098709 Depth:8
+Manhattan dist: number of states explored:8 time taken:11.897243006387725 Depth:8
+6.txt: N=3
+Misplaced tiles: number of states explored:8 time taken:2.879179999581538 Depth:6
+Manhattan dist: number of states explored:6 time taken:8.388415997615084 Depth:6
+7.txt: N=3
+Misplaced tiles: number of states explored:44 time taken:21.660279991920106 Depth:11
+Manhattan dist: number of states explored:17 time taken:20.71103799971752 Depth:11
+8.txt: N=3
+Misplaced tiles: number of states explored:5 time taken:5.336196001735516 Depth:4
+Manhattan dist: number of states explored:4 time taken:3.8815279986010864 Depth:4
+9.txt: N=3
+Misplaced tiles: number of states explored:31 time taken:15.67896299820859 Depth:10
+Manhattan dist: number of states explored:10 time taken:5.933178996201605 Depth:10
+10.txt: N=3
+Misplaced tiles: number of states explored:54 time taken:24.229470000136644 Depth:12
+Manhattan dist: number of states explored:16 time taken:12.626922994968481 Depth:12
+11.txt: N=4
+Misplaced tiles: number of states explored:3 time taken:1.60765100736171 Depth:3
+Manhattan dist: number of states explored:3 time taken:3.8909879949642345 Depth:3
+12.txt: N=3
+Misplaced tiles: number of states explored:13 time taken:4.44560700270813 Depth:8
+Manhattan dist: number of states explored:8 time taken:5.84559899289161 Depth:8
+13.txt: N=4
+Misplaced tiles: number of states explored:2 time taken:2.365722000831738 Depth:2
+Manhattan dist: number of states explored:2 time taken:38.67876200820319 Depth:2
+14.txt: N=4
+Misplaced tiles: number of states explored:5 time taken:2.0820720092160627 Depth:4
+Manhattan dist: number of states explored:4 time taken:34.45258201099932 Depth:4
+15.txt: N=4
+Misplaced tiles: number of states explored:398 time taken:232.26115200668573 Depth:16
+Manhattan dist: number of states explored:27 time taken:18.584382996778004 Depth:16
+16.txt: N=4
+Misplaced tiles: number of states explored:18 time taken:5.33055400592275 Depth:8
+Manhattan dist: number of states explored:14 time taken:8.781190001172945 Depth:8
+17.txt: N=3
+Misplaced tiles: number of states explored:1 time taken:0.3863160090986639 Depth:1
+Manhattan dist: number of states explored:1 time taken:0.4936199984513223 Depth:1
+18.txt: N=4
+Misplaced tiles: number of states explored:1346 time taken:1695.142031996511 Depth:21
+Manhattan dist: number of states explored:255 time taken:231.08425999816973 Depth:23
+19.txt: N=3
+Misplaced tiles: number of states explored:25 time taken:4.568175005260855 Depth:9
+Manhattan dist: number of states explored:11 time taken:4.30763499753084 Depth:9
+20.txt: N=4
+Misplaced tiles: number of states explored:116 time taken:33.067242009565234 Depth:14
+Manhattan dist: number of states explored:24 time taken:15.798035994521342 Depth:14
